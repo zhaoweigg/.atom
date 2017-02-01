@@ -1,0 +1,16 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+  editor:
+    atomicSoftTabs: false
+    invisibles: {}
+    tabLength: 4
+  "exception-reporting":
+    userId: "568c383a-3fcd-a509-6727-090be8509426"
+  "tabs-to-spaces": {}
+  welcome:
+    showOnStartup: false
